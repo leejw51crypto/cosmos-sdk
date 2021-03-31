@@ -59,4 +59,4 @@ replace google.golang.org/grpc => google.golang.org/grpc v1.33.2
 
 replace github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 
-replace github.com/99designs/keyring => github.com/leejw51crypto/keyring  gnome
+replace github.com/99designs/keyring => github.com/leejw51crypto/keyring v1.1.6-gnome
